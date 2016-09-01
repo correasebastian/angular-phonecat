@@ -24,3 +24,6 @@ One tweak has been made to the project itself in this repo, which is the disabli
 * [AngularJS](https://angularjs.org/)
 * [Protractor](https://github.com/angular/protractor)
 
+### play
+// "prestart": "npm install",
+
